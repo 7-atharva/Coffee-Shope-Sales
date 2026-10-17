@@ -46,7 +46,7 @@ This project presents an interactive Coffee Shop Sales Dashboard built using Mic
 Add your dashboard screenshot here.
 
 ```markdown
-<img width="3741" height="1629" alt="image" src="https://github.com/user-attachments/assets/a27661a5-4601-40b8-9f3f-127f8f71a6b7" />
+E:\Data Analytics Project\Using Excel
 ```
 
 Replace `dashboard.png` with the actual filename of your screenshot uploaded to the repository.
