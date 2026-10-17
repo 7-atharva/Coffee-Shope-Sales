@@ -44,8 +44,8 @@ This project presents an interactive Coffee Shop Sales Dashboard built using Mic
 
 ## 📷 Dashboard Preview
 
-<button block onClick={() => GenUI.copy("## 📸 Dashboard Preview\n\n![Coffee Shop Sales Dashboard](coffee_shop_sales_dashboard.png)")}><icon name="copy" size="sm" inline/> Copy code</button>
-</box>
+<img width="3741" height="1629" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/d3e282a4-954d-4dd2-a8ae-22ae45a589f8" />
+
 
 <img width="3741" height="1629" alt="coffee_shop_sales_dashboard_high_resolution" src="https://github.com/user-attachments/assets/09678842-686d-4784-aaea-5d742dd00945" />
 
