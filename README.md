@@ -46,7 +46,7 @@ This project presents an interactive Coffee Shop Sales Dashboard built using Mic
 Add your dashboard screenshot here.
 
 ```markdown
-![Coffee Shop Sales Dashboard](coffee_shop_sales_dashboard.png)
+coffee_shop_sales_dashboard.png
 ```
 
 ## 👨‍💻 Author
