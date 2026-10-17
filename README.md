@@ -46,10 +46,8 @@ This project presents an interactive Coffee Shop Sales Dashboard built using Mic
 Add your dashboard screenshot here.
 
 ```markdown
-E:\Data Analytics Project\Using Excel
+coffee_shop_sales_dashboard.png
 ```
-
-Replace `dashboard.png` with the actual filename of your screenshot uploaded to the repository.
 
 ## 👨‍💻 Author
 **Atharva Kewate**
