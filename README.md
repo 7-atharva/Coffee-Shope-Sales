@@ -44,10 +44,8 @@ This project presents an interactive Coffee Shop Sales Dashboard built using Mic
 
 ## 📷 Dashboard Preview
 
-```markdown
-<img width="3741" height="1629" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/c23a7fc1-6708-4bb1-b04a-496048376126" />
 
-```
+<img width="3741" height="1629" alt="coffee_shop_sales_dashboard" src="https://github.com/user-attachments/assets/c23a7fc1-6708-4bb1-b04a-496048376126" />
 
 ## 👨‍💻 Author
 **Atharva Kewate**
